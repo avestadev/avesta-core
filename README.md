@@ -1,4 +1,4 @@
-## Go Ethereum
+## Avesta Go Ethereum
 
 Official golang implementation of the Ethereum protocol.
 
@@ -21,8 +21,10 @@ on the wiki.
 Building geth requires both a Go (version 1.9 or later) and a C compiler.
 You can install them using your favourite package manager.
 Once the dependencies are installed, run
+   
+    git clone  https://github.com/avestadev/avesta-core/ 
 
-    make geth
+    make avestad
 
 or, to build the full suite of utilities:
 
